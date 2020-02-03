@@ -1,0 +1,28 @@
+
+body {
+	margin: 17px;
+	padding: 0px;
+	
+	text-align: left;
+	font-family: Arial, Verdana;
+    font-size: 12px;
+	background: #FFFFFF;
+	}
+
+td {
+	font-family: Arial, Verdana;
+    font-size: 12px;
+	}
+
+
+#page {
+
+	width: 860px;
+
+	text-align: left;
+
+    margin: auto;
+
+    padding: 0;
+
+	}
